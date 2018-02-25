@@ -1,11 +1,11 @@
 # TeslaTools
-One program to group multiple tools for the Teslagrad speedrunning community.
+A program to group multiple tools for the Teslagrad speedrunning community.
 
 ## Save Editor (Fully working - please repport bugs !)
-This tool creates customisable saves directly into the Teslagrad save folder. You can select checkpoints, powerups, defeated bosses in any order, number of scrolls and even read-only file-type, in order to avoid the game overwriting your favorite training spot ! Usefull for NG+, exploits research, and also a good way to practice on particular moment of the game.
+This tool creates customisable saves directly into the Teslagrad save folder. You can select checkpoints, powerups, defeated bosses in any order, number of scrolls and even read-only file-type, in order to avoid the game overwriting your favorite training spot ! Usefull for NG+, exploits research, and also a good way to practice particular spots.
 
 ## Bingo (Work in progress)
-This tool generates bingo cards for bingo races. The bingo will be made of different objectives like collecting specific scrolls and killing or not bosses. Maybe performe specific tricks or just gimic thing like killing a certain amount of voidwalker/grue.
+This tool generates bingo cards for bingo races. The bingo will be made of different objectives like collecting specific scrolls and killing or not bosses. Ideas includes perform specific tricks or just gimic thing like killing a certain amount of voidwalker/grue.
 
 ## Not integrated into Teslatools
 ### TeslaSplit
