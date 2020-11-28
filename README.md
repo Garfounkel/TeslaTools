@@ -24,8 +24,8 @@ This tool watches the Teslagrad save game files looking for updates. New saves a
 
 Note: I thought of some funny features like an interactive map that could make use of the same principle as TeslaSplit for reading savefiles.
 
-### TASlasgrad (Work in progress)
+### TASlasgrad
 This tool records inputs and then play them back for TASing or multi-segment. First attempt to this program (by Dioxymore and me) had major de-sync issue. Recently, DevilSquirrel made a new tool which appear to work a little better by replacing some of Teslagrad's DLL. It can be found [here](https://github.com/ShootMe/TeslagradTAS).
 
-### TeslaViewer (Work in progress)
+### TeslaViewer
 Created by Dioxymore (no repo available at the moment). This tool is under construction, still a proof of concept and need some polish. The idea is to display some informations ingame like the character's speed and position, checkpoints and more. Uses the same technique as TASlagrad (replacing game's DLL) to access some ingame variables.
