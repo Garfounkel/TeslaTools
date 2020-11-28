@@ -3,12 +3,14 @@ A program to group multiple tools for the Teslagrad speedrunning community.
 
 ## Save Editor
 This tool creates customisable saves directly into the Teslagrad save folder. You can select checkpoints, powerups, defeated bosses in any order, number of scrolls and even read-only file-type, in order to avoid the game overwriting your favorite training spot ! Usefull for NG+, exploits research, and also a good way to practice particular spots.
+
 ![SaveEditor.png](Images/teslatools_save_editor.png)
 
 ## Bingo
 This tool generates bingo cards for bingo races. For now it randomly generates 5x5 cards with tuples of 3 scrolls on each objectif. The idea being that a bingo run consists of getting all the scrolls in any row/column/diagonal (5x3=15 scrolls) and then finish the game.
 
 I had other objectives in mind like visiting all the grues in the game/killing or not bosses/performing specific tricks or killing a certain amount of different voidwalker. I also had an idea for a reverse bingo run where you use the save editor to generate a save file at the top of the tower with all bosses alive and then you have to climb down the tower, make your way through the game backwards. Solving puzzles in reverse leading to new strats. Unfortunately I lost motivation for those and never really finished designing this.
+
 ![Bingo.png](Images/teslatools_bingo.png)
 
 ---
